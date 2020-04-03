@@ -1,0 +1,42 @@
+body{
+	padding: 0;
+	margin: 0;
+	background: url(../img/Mountain.jpg) no-repeat;
+	background-size: cover;
+}
+.box{
+	width: 650px;
+	background: rgba(0,0,0,0.4);
+	padding: 60px;
+	padding-top: 40px;;
+	text-align: center;
+	margin: auto;
+	margin-top: 5%;
+	color: white;
+	font-family: "Times New Roman", Times, serif;
+}
+.box table{
+	font-size: 20px;
+	color: yellow;
+	letter-spacing: 2px;
+}
+.box-img{
+	border-radius: 50%;
+	width: 350px;
+	height: 350px;
+}
+.box h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+}
+.box h5{
+	font-size: 18px;
+	letter-spacing: 2px;
+	font-weight: 100;
+}
+.box p{
+	text-align: justify;
+	font-size: 15px;
+	letter-spacing: 1.5px;
+}
